@@ -1,2 +1,2 @@
-# exbitron-icons
-Exbitron icons
+# Crypto-icons
+Icons for project :)
