@@ -11,3 +11,7 @@ Ether-1 : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/etho.p
 FoxDCoin : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/foxd.png
 
 Optical Bitcoin : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/obtc.png
+
+iBTC : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/ibtc.png
+
+CircCash : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/circ.png
