@@ -17,3 +17,9 @@ Free to use if you need them mostly 200x200 hosted here.
 **CircCash** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/circ.png
 
 **RealCoin** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/real.png
+
+**SugarChain** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/sugarchain.png
+
+**Uplexa** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/upx.png
+
+**KevaCoin** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/kva.png
