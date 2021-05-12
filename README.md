@@ -23,3 +23,5 @@ Free to use if you need them mostly 200x200 hosted here.
 **Uplexa** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/upx.png
 
 **KevaCoin** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/kva.png
+
+**BitcoinSV** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/bsv.png
