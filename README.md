@@ -25,3 +25,11 @@ Free to use if you need them mostly 200x200 hosted here.
 **KevaCoin** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/kva.png
 
 **BitcoinSV** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/bsv.png
+
+**RavenCoin** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/rvn.png
+
+**DigiByte** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/dgb.png
+
+**Veil** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/veil.png
+
+**PengolinCoin** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/pgo.png
