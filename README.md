@@ -33,3 +33,11 @@ Free to use if you need them mostly 200x200 hosted here.
 **Veil** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/veil.png
 
 **PengolinCoin** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/pgo.png
+
+**Bitcoin** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/bitcoin.png
+
+**Antimony** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/antimony.png
+
+**PesetaDigital** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/pesetadigital.png
+
+**PupaCoin** : https://raw.githubusercontent.com/JustFragger/crypto-icons/main/puppa.png
