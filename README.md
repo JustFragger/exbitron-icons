@@ -1,6 +1,5 @@
-# Crypto-icons
-Icons for project :)
+# Crypto-Logos
+This repository is storing logos used by Exbitron Exchange, to display them on Markets page.
 
-Free to use if you need them mostly 200x200 hosted here.
-
-
+# Disclaimer
+All logos are the property of their respective owners.
