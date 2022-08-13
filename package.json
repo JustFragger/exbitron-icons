@@ -1,0 +1,23 @@
+{
+  "name": "crypto-icons",
+  "version": "1.0.0",
+  "description": "Crypto Icons used by Exbitron exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustFragger/crypto-icons.git"
+  },
+  "keywords": [
+    "crypto",
+    "icons"
+  ],
+  "author": "JFragger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustFragger/crypto-icons/issues"
+  },
+  "homepage": "https://github.com/JustFragger/crypto-icons#readme"
+}
